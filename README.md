@@ -1,7 +1,7 @@
 Arduino-Stepper-2BYJ48
 ======================
 
-Library for bidirectional operation of a 2BYJ48 stepper motor with a 5-way connector, using a ULN2003 interface board to drive the stepper.
+Library for bidirectional operations of a 2BYJ48 stepper motor with a 5-way connector, using a ULN2003 interface board to drive the stepper.
 
 
 I like mechanical watches. I like listening to their heartbeats in an empty room. You'll never feel alone with your little ticker .
